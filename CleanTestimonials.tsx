@@ -119,7 +119,7 @@ export function CleanTestimonials() {
         >
           <p className="text-gray-600 flex items-center justify-center gap-2">
             <Play className="w-5 h-5 text-[#F57C00]" />
-            <span>Full video testimonials navailable - Follow us to Watch</span>
+            <span>Full video testimonials unavailable - Follow us on Instagram to Watch</span>
           </p>
         </motion.div>
       </div>

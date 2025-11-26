@@ -45,7 +45,7 @@ export function EnhancedContact({ onBookingClick }: EnhancedContactProps) {
     {
       icon: Phone,
       title: 'Call Us',
-      content: '+254 775 269 628',
+      content: '+254 792 211 741',
       action: 'tel:+254775269628'
     },
     {
@@ -136,7 +136,7 @@ export function EnhancedContact({ onBookingClick }: EnhancedContactProps) {
                     onChange={handleChange}
                     required
                     className="w-full px-4 py-3 bg-white border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#F57C00] transition-all"
-                    placeholder="John Kamau"
+                    placeholder="Isaac Njenga"
                   />
                 </div>
 
@@ -153,7 +153,7 @@ export function EnhancedContact({ onBookingClick }: EnhancedContactProps) {
                       onChange={handleChange}
                       required
                       className="w-full px-4 py-3 bg-white border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#F57C00] transition-all"
-                      placeholder="john@example.com"
+                      placeholder="sckaranu@gmail.com"
                     />
                   </div>
 

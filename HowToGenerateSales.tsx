@@ -152,7 +152,7 @@ export function HowToGenerateSales() {
             {/* Video Placeholder */}
             <div className="relative h-80 lg:h-auto">
               <ImageWithFallback
-                src="https://images.unsplash.com/photo-1758691736067-b309ee3ef7b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMHRyYWluaW5nJTIwZWR1Y2F0aW9ufGVufDF8fHx8MTc2MjI2NjkyNHww&ixlib=rb-4.1.0&q=80&w=1080"
+                src="https://www.aca.go.ke/images/gallery/meeting-with-nairobi-small-business-leaders/meeting-with-nairobi-small-business-leaders--32538.jpg"
                 alt="Business Training"
                 className="w-full h-full object-cover"
               />

@@ -39,7 +39,7 @@ Message: ${formData.message}`;
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl text-[#0A2239] mb-6">
-            Ready to Get Started? Let's Talk.
+            You’re Closer Than You Think — Let’s Make It Real.
           </h2>
           <p className="text-xl text-[#2C2C2C] max-w-3xl mx-auto">
             The first step is a simple conversation about your business and what you need. No pressure, no obligation, just an honest discussion about whether and how we can help.

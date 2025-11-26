@@ -9,21 +9,21 @@ export function ProfessionalFooter() {
 
   const footerLinks = {
     company: [
-      { name: 'Our Story', href: '#about' },
-      { name: 'How We Work', href: '#transformation-process' },
-      { name: 'Success Stories', href: '#business-crisis' },
-      { name: 'Contact Us', href: '#contact' }
+      { name: 'Our Story', href: '/about' },
+      { name: 'How We Work', href: '/transformation-process' },
+      { name: 'Success Stories', href: '/business-crisis' },
+      { name: 'Contact Us', href: '/contact' }
     ],
     services: [
-      { name: 'Website Development', href: '#services' },
-      { name: 'SEO & Google Visibility', href: '#services' },
-      { name: 'Social Media Management', href: '#services' },
-      { name: 'E-Commerce Solutions', href: '#services' },
-      { name: 'Business Analytics', href: '#services' }
+      { name: 'Website Development', href: '/services' },
+      { name: 'SEO & Google Visibility', href: '/services' },
+      { name: 'Social Media Management', href: '/services' },
+      { name: 'E-Commerce Solutions', href: '/services' },
+      { name: 'Business Analytics', href: '/services' }
     ],
     resources: [
-      { name: 'Educational Hub', href: '#education' },
-      { name: 'ROI Calculator', href: '#roi-calculator' },
+      { name: 'Educational Hub', href: '/education' },
+      { name: 'ROI Calculator', href: '/roi-calculator' },
       { name: 'Blog', href: '#' },
       { name: 'FAQs', href: '#' }
     ]
